@@ -16,3 +16,10 @@ npm install --save-dev webpack
 ```
 npm install --save-dev webpack
 ```
+3.创建app、public文件夹以及文件
+app
+>iGreeter.js
+>main.js
+
+public
+>index.html
