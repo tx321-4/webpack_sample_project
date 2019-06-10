@@ -4,7 +4,7 @@
 
 ## 可以按照上面的原文 练习  我这边只列出区别
 -----------------------------
-1.初始化项目 `npm init `
+1.初始化项目 `npm init `<br />
 2.安装 webpack 注：（webpack4.0+ 移除了 webpack的脚手架[webpack-cli]） ,所以要单独安装
 ```bash
 npm install --save-dev webpack
@@ -80,8 +80,4 @@ npm可以引导任务执行
 "dev": "webpack --mode development",
 ```
 
-输入 
-```bash
-npm run dev 
-```
-打包
+输入 `npm run dev ` 打包<br />
