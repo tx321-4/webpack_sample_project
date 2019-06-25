@@ -10,7 +10,7 @@
 npm install --save-dev webpack
 ```
 ```bash
-npm install --save-dev webpack
+npm install --save-dev webpack-cli
 ```
 
 
